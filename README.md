@@ -1,13 +1,13 @@
 # Intern-K.G.
 
-# My Work As a Digital Content Manager and Head IT Officer
+## My Work As a Digital Content Manager and Head IT Officer
 - As a Digital Content Manager, I was responsible for creating, improving, and maintaining a range of content on a website to help an organization achieve its goals.
 
 - It was my duty to create high quality, sharable content to raise brand awareness, monitor web traffic and other metrics to identify best practices.
 
 - Ultimately,  I was able to oversee all marketing content initiatives to ensure customer engagement, brand consistency, and positive customer experience are the number one priority.
 
-#Skills ot Traits
+## Skills ot Traits
 
 - live and breathe digital.
 
